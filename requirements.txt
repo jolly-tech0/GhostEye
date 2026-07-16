@@ -1,0 +1,7 @@
+requests
+dnspython
+python-whois
+colorama
+qrcode
+pillow
+pyzbar
