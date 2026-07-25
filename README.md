@@ -53,13 +53,21 @@ A powerful Information Gathering & Security Utility Toolkit built in Python for 
 
 Install dependencies:
 
-pkg update -y && pkg upgrade -y
-pkg install -y python git nano
-pip install --upgrade pip
-pip install requests dnspython python-whois colorama qrcode pillow pyzbar
-git clone https://github.com/jolly-tech0/GhostEye.git
-cd GhostEye
-python GhostEye.py
+$ pkg update -y && pkg upgrade -y
+
+$ pkg install -y
+
+$ python git nano
+
+$ pip install --upgrade pip
+
+$ pip install requests dnspython python-whois colorama qrcode pillow pyzbar
+
+$ git clone https://github.com/jolly-tech0/GhostEye.git
+
+$ cd GhostEye
+
+$ python GhostEye.py
 
 ---
 
