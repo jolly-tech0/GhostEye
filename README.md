@@ -6,7 +6,7 @@ A powerful Information Gathering & Security Utility Toolkit built in Python for 
 
 ## 👨‍💻 Developer
 
-**Jolly**
+**Jolly/Rishu**
 
 📷 Instagram: **@laukii.i**
 
@@ -53,17 +53,13 @@ A powerful Information Gathering & Security Utility Toolkit built in Python for 
 
 Install dependencies:
 
-```bash
+pkg update -y && pkg upgrade -y
+pkg install -y python git nano
+pip install --upgrade pip
 pip install requests dnspython python-whois colorama qrcode pillow pyzbar
-```
-
----
-
-## ▶️ Run
-
-```bash
+git clone https://github.com/jolly-tech0/GhostEye.git
+cd GhostEye
 python GhostEye.py
-```
 
 ---
 
@@ -93,6 +89,6 @@ The developer is not responsible for any misuse.
 
 GhostEye v2.0
 
-Developer: Jolly
+Developer: Jolly / Rishu 
 
 Instagram: @laukii.i
